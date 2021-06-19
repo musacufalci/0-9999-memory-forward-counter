@@ -1,4 +1,4 @@
-# 0-9999-memory-forward-counter
+# 0_9999_memory_forward_counter
 
 - Microcontroller: PIC16F88
 - Screen         : 7 Segment Display  
