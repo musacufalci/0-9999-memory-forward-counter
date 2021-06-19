@@ -2,6 +2,8 @@
 
 - Microcontroller: PIC16F88
 - Screen         : 7 Segment Display  
+- https://youtu.be/Prd7UoJ_l-E
+
 
    
 - The circuit works with AC or DC input voltage between 7-12V.
