@@ -1,7 +1,9 @@
 # 0-9999-memory-forward-counter
 
 - Microcontroller: PIC16F88
-- Screen         : 7 Segment Display        
+- Screen         : 7 Segment Display  
+
+     
 
 - The circuit works with DC input voltage between 7-12V.
 - It counts ADVANCED between 0000-9999 depending on the plus (+) buttons.
