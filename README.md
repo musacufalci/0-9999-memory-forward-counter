@@ -3,8 +3,7 @@
 - Microcontroller: PIC16F88
 - Screen         : 7 Segment Display  
 
-     
-
+   
 - The circuit works with DC input voltage between 7-12V.
 - It counts ADVANCED between 0000-9999 depending on the plus (+) buttons.
 - It shows 0000 when RESET button is pressed. (First opened location)
