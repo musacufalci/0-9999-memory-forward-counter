@@ -4,7 +4,7 @@
 - Screen         : 7 Segment Display  
 
    
-- The circuit works with DC input voltage between 7-12V.
+- The circuit works with AC or DC input voltage between 7-12V.
 - It counts ADVANCED between 0000-9999 depending on the plus (+) buttons.
 - It shows 0000 when RESET button is pressed. (First opened location)
 - Displays in the circuit work according to the SCAN method.
