@@ -2,7 +2,7 @@
 
 - Microcontroller: PIC16F88
 - Screen         : 7 Segment Display  
-- https://youtu.be/Prd7UoJ_l-E
+- Simulation and real-time operation of project software:     https://youtu.be/Prd7UoJ_l-E
 
 
    
