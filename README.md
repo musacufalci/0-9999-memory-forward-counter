@@ -12,5 +12,5 @@ Simulation and real-time operation of project software: https://youtu.be/Prd7UoJ
 - Since the circuit dimensions are quite small, it provides savings in the assembly phase.
 - Considering that a button is used on the circuit and mechanical inputs such as contactors and other switches can be made at the input, a certain delay time has been set. You can use it in all projects...
 
-Design by https://www.linkedin.com/in/musacufalci/
+Design by: https://www.linkedin.com/in/musacufalci/
 
