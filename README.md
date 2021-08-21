@@ -1,4 +1,4 @@
-# 0_9999_memory_forward_counter
+# 0-9999 memory forward counter
 
 Simulation and real-time operation of project software: https://youtu.be/Prd7UoJ_l-E
 
