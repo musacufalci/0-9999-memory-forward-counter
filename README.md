@@ -1,6 +1,6 @@
 # 0-9999 memory forward counter
 
-Simulation and real-time operation of project software: https://youtu.be/Prd7UoJ_l-E
+- Simulation and real-time operation of project software: https://youtu.be/Prd7UoJ_l-E
 
 - The circuit works with AC/DC input voltage between 7-12V.
 - It counts ADVANCED between 0000-9999 depending on the plus (+) buttons.
